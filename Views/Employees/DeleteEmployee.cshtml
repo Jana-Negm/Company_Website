@@ -1,0 +1,36 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model Employee
+
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <form method="post" asp-controller="Employees" asp-action="DeleteConfirmed">
+        <div class="form-group">
+            <label for="EID">Select the ID of the Employee </label>
+            @*<select   asp-for="EID" asp-action="DeleteConfirmed" id="EID" class="form-control">
+                <option asp-for="EID" value="" selected>Select Employee ID</option>
+
+                @if (ViewBag.eids != null)
+                {
+                    @foreach (var eid in ViewBag.eids)
+                    {
+                        <option  asp-for="EID" value=@eid>@eid</option>
+                        
+                    }
+                    <input type="submit" value="Delete" class="btn btn-danger" asp-action="DeleteConfirmed" />
+                }
+                else
+                {
+                    <option value="" selected>No employee IDs found</option>
+                }
+
+            </select>*@
+         
+               </div>
+        
+
+    </form>

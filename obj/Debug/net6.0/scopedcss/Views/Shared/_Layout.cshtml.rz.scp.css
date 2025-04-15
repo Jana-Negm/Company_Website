@@ -1,0 +1,50 @@
+.dropbtn[b-j4xu9zp3jc] {
+    color: black;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+}
+
+.dropdown[b-j4xu9zp3jc] {
+    position: relative;
+    display: inline-block;
+   
+}
+
+.dropdown-content[b-j4xu9zp3jc] {
+    display: none;
+    position: absolute;
+    /*the background of the list of pages that are opened*/
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a[b-j4xu9zp3jc] {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .dropdown-content a:hover[b-j4xu9zp3jc] {
+            /* when you toggle through the diff links */
+            background-color: #ddd;
+        }
+
+.dropdown:hover .dropdown-content[b-j4xu9zp3jc] {
+    display: block;
+}
+
+.dropdown:hover .dropbtn[b-j4xu9zp3jc] {
+    background-color: lightgrey;
+}
+
+a[b-j4xu9zp3jc] {
+    text-decoration: none;
+    color: black;
+}
+

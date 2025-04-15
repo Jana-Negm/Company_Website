@@ -1,0 +1,58 @@
+﻿@model List<Employee>
+@{
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Employees</title>
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <h1>Employees</h1>
+
+            <table class="table table-light table-striped">
+                <thead>
+                    <tr>
+                        <th>User Name</th>
+                        <th>Password</th>
+                        <th>ID</th>
+                        <th>Manager ID</th>
+                        <th>Administrator</th>
+                        <th>FirstName</th>
+                        <th>LastName</th>
+                        <th> Modify </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var emp in Model)
+                    {
+                        <tr>
+                            <td>@emp.UserName</td>
+                            <td>@emp.UserPassword</td>
+                            <td>@emp.EID</td>
+                            <td>@emp.MID</td>
+                            <td>@emp.Administrator</td>
+                            <td>@emp.FirstName</td>
+                            <td>@emp.LastName</td>
+                            <td><a asp-action="Edit1" asp-route-id="@emp.EID">Edit</a>
+                                <a asp-action="ConfirmDelete" asp-route-id="@emp.EID">Delete</a>
+                            </td>
+                            
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </body>
+
+    </html>
+}
+

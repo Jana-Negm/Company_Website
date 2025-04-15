@@ -1,0 +1,33 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h1>Employee Details</h1>
+
+<table class="table table-light table-striped">
+    <thead>
+        <tr>
+            <th>User Name</th>
+            <th>Password</th>
+            <th>ID</th>
+            <th>Manager ID</th>
+            <th>Administrator</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.UserName</td>
+            <td>@Model.UserPassword</td>
+            <td>@Model.EID</td>
+            <td>@Model.MID</td>
+            <td>@Model.Administrator</td>
+            <td>@Model.FirstName</td>
+            <td>@Model.LastName</td>
+
+        </tr>
+    </tbody>
+</table>

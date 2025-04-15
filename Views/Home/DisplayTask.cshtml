@@ -1,0 +1,53 @@
+﻿@model List<Tasks>
+
+
+
+
+@{
+
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <body>
+
+        <div class="container mt-3">
+
+            <table class="table table-light table-striped">
+                <thead>
+                    <tr>
+                        <th>Task Name</th>
+                        <th>Task Status</th>
+                        <th>Comments</th>
+                        <th>StartDate</th>
+                        <th>EndDate</th>
+                        <th>Deadline</th>
+                        <th>AssignedDate</th>
+                        <th>Task Priority</th>
+                        <th>EID</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var task in @Model)
+                    {
+                        <tr>
+                            <td>@task.TaskName</td>
+                            <td>@task.TaskStatus</td>
+                            <td>@task.Comments</td>
+                            <td>@task.StartDate</td>
+                            <td>@task.EndDate</td>
+                            <td>@task.Deadline</td>
+                            <td>@task.AssignedDate</td>
+                            <td>@task.TaskPriority</td>
+                            <td>@task.EID</td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+
+    </body>
+    </html>
+
+}
+

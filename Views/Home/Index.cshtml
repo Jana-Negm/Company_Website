@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+@model Employee
+
+
+<form method="post" asp-controller="Home" asp-action="logged">
+ <!-- form so that there is an inpt that can be submitted 
+asp cont is for where the page currently is and action is for where it will go after the button is clicked
+ -->
+   
+   <section >
+       
+        <div>
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                    <div class="card" style="border-radius: 5rem; background-color: skyblue; color: black" >
+                        <!-- border radius in charge of the curvature of the card. color is for teh text color -->
+                        <div class="card-body p5 text-center" style="height:460px">
+                    
+                            <div class="mb-md-5 mt-md-4 pb-5" >
+                                
+
+
+                                <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
+                                <p class="mt-3 mb-4" style=" color: black" >Please enter your Username and Password!</p>
+
+                                <div class="form-outline form-white mb-4">
+                                    <label class="form-label" for="UserName">Username</label>
+                                      <input type="UserName" id="UserName" required="true" class="form-control form-control-lg" asp-for="UserName" />
+                                    
+                                </div>
+
+                                <div class="form-outline form-white mb-4">
+                                    <label class="form-label" for="typePasswordX">Password</label>
+                                    <input asp-for="UserPassword" type="password" required="true" id="UserPassword" class="form-control form-control-lg" />
+                              
+                                        
+                                </div>
+
+                                <p class="small pb-lg-2" style="margin-bottom: -5px">
+                                    <a asp-action="ResetPass" type="submit" name="submitButton" style="color: black">Forgot password?</a>
+                                </p>
+                                
+                                
+                                <!-- a is similar to button but does not have a border -->
+                                <button class="btn btn-outline-secondary btn-lg px-5" style=" color: black ; margin-bottom: -60px" type="submit">Login</button>
+                                <!-- type submit is imp so that the data can be temp stored and checked -->
+
+                            </div>
+
+                         
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</form>

@@ -1,0 +1,1764 @@
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\appsettings.json
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Project1.staticwebassets.runtime.json
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Project1.exe
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Project1.deps.json
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Project1.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Project1.pdb
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cache
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cs
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.build.Project1.props
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project1.props
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project1.props
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\scopedcss\projectbundle\Project1.bundle.scp.css
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.dll
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\refint\Project1.dll
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.pdb
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\ref\Project1.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\MailKit.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Trainee\source\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.pdb
+E:\repos\Project1\Project1\bin\Debug\net6.0\appsettings.Development.json
+E:\repos\Project1\Project1\bin\Debug\net6.0\appsettings.json
+E:\repos\Project1\Project1\bin\Debug\net6.0\Project1.staticwebassets.runtime.json
+E:\repos\Project1\Project1\bin\Debug\net6.0\Project1.exe
+E:\repos\Project1\Project1\bin\Debug\net6.0\Project1.deps.json
+E:\repos\Project1\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+E:\repos\Project1\Project1\bin\Debug\net6.0\Project1.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Project1.pdb
+E:\repos\Project1\Project1\bin\Debug\net6.0\Azure.Core.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Azure.Identity.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Humanizer.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\MailKit.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\MessagePack.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Build.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\MimeKit.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Common.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.CodeDom.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Memory.Data.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Text.Json.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\repos\Project1\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cache
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cs
+E:\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.build.Project1.props
+E:\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project1.props
+E:\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project1.props
+E:\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets.build.json
+E:\repos\Project1\Project1\obj\Debug\net6.0\staticwebassets.development.json
+E:\repos\Project1\Project1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\repos\Project1\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+E:\repos\Project1\Project1\obj\Debug\net6.0\scopedcss\projectbundle\Project1.bundle.scp.css
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.dll
+E:\repos\Project1\Project1\obj\Debug\net6.0\refint\Project1.dll
+E:\repos\Project1\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+E:\repos\Project1\Project1\obj\Debug\net6.0\ref\Project1.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\appsettings.Development.json
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\appsettings.json
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.staticwebassets.runtime.json
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.exe
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.deps.json
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.pdb
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Core.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Identity.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Humanizer.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MailKit.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MessagePack.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MimeKit.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Common.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.CodeDom.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Text.Json.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cache
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cs
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.build.Project1.props
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project1.props
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project1.props
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\scopedcss\projectbundle\Project1.bundle.scp.css
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.dll
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\refint\Project1.dll
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.pdb
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\ref\Project1.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\appsettings.Development.json
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\appsettings.json
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.staticwebassets.runtime.json
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.exe
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.deps.json
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Project1.pdb
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Core.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Identity.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Humanizer.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MailKit.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MessagePack.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\MimeKit.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Common.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.CodeDom.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Text.Json.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cache
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cs
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.build.Project1.props
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project1.props
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project1.props
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\scopedcss\projectbundle\Project1.bundle.scp.css
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\refint\Project1.dll
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.pdb
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\Internship\Pgesco August23\Project1v3\Project1\obj\Debug\net6.0\ref\Project1.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\appsettings.Development.json
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\appsettings.json
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Project1.staticwebassets.runtime.json
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Project1.exe
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Project1.deps.json
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Project1.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Project1.pdb
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Azure.Core.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Azure.Identity.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Humanizer.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\MailKit.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\MessagePack.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\MimeKit.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.Common.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.CodeDom.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Text.Json.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Internship\Pgesco August23\Project-working\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cache
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cs
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\staticwebassets\msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\staticwebassets\msbuild.build.Project1.props
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project1.props
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project1.props
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\staticwebassets.build.json
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\staticwebassets.development.json
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\scopedcss\projectbundle\Project1.bundle.scp.css
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.dll
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\refint\Project1.dll
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.pdb
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\Internship\Pgesco August23\Project-working\obj\Debug\net6.0\ref\Project1.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\appsettings.Development.json
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\appsettings.json
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Project1.staticwebassets.runtime.json
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Project1.exe
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Project1.deps.json
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Project1.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Project1.pdb
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Azure.Core.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Azure.Identity.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Humanizer.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\MailKit.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\MessagePack.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\MimeKit.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.Common.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.CodeDom.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Text.Json.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Internship\Pgesco August23\Project-v4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cache
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.RazorAssemblyInfo.cs
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\staticwebassets\msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\staticwebassets\msbuild.build.Project1.props
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project1.props
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project1.props
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\scopedcss\projectbundle\Project1.bundle.scp.css
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.dll
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\refint\Project1.dll
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.pdb
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\Internship\Pgesco August23\Project-v4\obj\Debug\net6.0\ref\Project1.dll

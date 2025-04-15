@@ -1,0 +1,112 @@
+﻿@{
+    var check = TempData["IsManager"] ?? "Not set";
+    var check1 = TempData["IsAdmin"] ?? "Not set";
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Project1</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Project1.styles.css" asp-append-version="true" />
+ 
+</head>
+<body>
+
+    <header>
+        
+        <div class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <a class="navbar-brand"  asp-area="" asp-controller="Home" asp-action="Index" style="margin-left: 20px">Home</a>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            
+           
+            @if (Context.Session.GetInt32("Administrator") ==1)
+            {
+                <div class="dropdown">
+                    <button class="dropbtn">
+                        Employee
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+
+                        <a href="/Employees/CreateEmployee">Create</a>
+                        <a href="/Employees/EmployeeIndex">Employee List</a>
+                        
+
+                        <!--
+                        <a href="/Employees/DeleteEmployee">Delete </a>
+                        <a href="/Employees/Edit">Edit</a>
+
+                            not complete
+                        -->
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <button class="dropbtn">
+                        Task
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+
+                        <a href="/Tasks/TaskIndex">List </a>
+                        <a href="/Tasks/CreateTask">Create</a>
+                       
+                        
+                        
+                    </div>
+                </div>
+            
+            }
+
+            <a style="padding-left: 16px;" class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Logout" onclick="window.location.href='/'">Logout</a>
+
+
+           @* @if (TempData["IsAdmin"] is true)
+                
+            {
+                
+            }*@
+            
+        
+        
+        </div>
+    </header>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let dropdowns = document.getElementsByClassName("dropdown");
+            for (let i = 0; i < dropdowns.length; i++) {
+                let dropdown = dropdowns[i];
+                dropdown.addEventListener("click", function () {
+                    this.classList.toggle("active");
+                    let dropdownContent = this.getElementsByClassName("dropdown-content")[0];
+                    dropdownContent.classList.toggle("show");
+                });
+            }
+        });
+    </script>
+    
+    <div class="container">
+        <div class="my-5" >
+            <!-- Add this div with margin -->
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    </div>
+
+    <footer class="border-top footer text-muted" style="margin-bottom: 10px; margin-top: 10px">
+        <div class="container">
+            &copy; 2023 - Project1 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

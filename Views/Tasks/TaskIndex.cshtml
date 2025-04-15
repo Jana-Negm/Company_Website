@@ -1,0 +1,68 @@
+﻿@model List<Tasks>
+
+
+@{
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Tasks </title>
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <h1>Tasks</h1>
+
+            <table class="table table-light table-striped">
+                <thead>
+                    <tr>
+                        <th>TaskID</th>
+                        <th>TaskName</th>
+                        <th>TaskStatus</th>
+                        <th>Comments  </th>
+                        <th>StartDate</th>
+                        <th>EndDate</th>
+                        <th>Deadline</th>
+                        <th> AssignedDate </th>
+                        <th> TaskPriority </th>
+                        <th> EID </th>
+                        <th>Modify</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var tasks in Model)
+                    {
+                        <tr>
+                            <td>@tasks.TID</td>
+                            <td>@tasks.TaskName</td>
+                            <td>@tasks.TaskStatus</td>
+                            <td>@tasks.Comments</td>
+                            <td>@tasks.StartDate</td>
+                            <td>@tasks.EndDate</td>
+                            <td>@tasks.Deadline</td>
+                            <td>@tasks.AssignedDate</td>
+                            <td>@tasks.TaskPriority</td>
+                            <td>@tasks.EID</td>
+                            <td>
+                                <a asp-action="EditTask" asp-route-id="@tasks.TID">Edit</a>
+                                <a asp-action="DeleteTask" asp-route-id="@tasks.TID">Delete</a>
+                            </td>
+
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </body>
+
+    </html>
+}
+

@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.15" />
+  </ItemGroup>
+<wennbconfigW></Webconfig>	
+		
+	Curationcuration<connectionStrings>
+<add name=”HRDBConnection”
+     connectionString=”Data Source=Datasource;Initial Catalog=HRDatabase;User ID=HRDBLogin;Password=MyPassword”
+     providerName=”System.Data.SqlClient” />
+</connectionStrings>			<add name="HRDBConnection"
+				 connectionString=”Data Source=Datasource;Initial Catalog=HRDatabase;User ID=HRDBLogin;Password=MyPassword”
+				 providerName=”System.Data.SqlClient” />
+		
+	
+	
+	
+	
+	
+	//j<!-- -->j 
+	
+	
+	<!-- j -->
+
+DB""""janaPgesco20233
+</Project>
